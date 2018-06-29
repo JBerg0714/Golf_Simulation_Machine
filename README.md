@@ -1,9 +1,6 @@
-# Golf Ball Trajectory Simulator
-### this is the synopsis of the project - professional 
-
-
-- create links to other files (hyperlinks) 
+# Using an HD Golf Simulator to create an autonomous computational model
 
 
 
-- [word/title] (link)
+## Notebooks
+- [Trajectory Comparisons of apex and carry] (https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v3.ipynb)
