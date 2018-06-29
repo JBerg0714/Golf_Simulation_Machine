@@ -3,7 +3,7 @@
 
 
 ## Notebooks
-- [Trajectory Comparisons of apex and carry](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v3.ipynb)
+- [Trajectory Comparisons of Apex and Carry](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v3.ipynb)
 - [RMS Values](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v4.ipynb)
 - [Manual Derivation of Coefficients](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v5.ipynb)
 - [Testing Derived Coefficients](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v6-(TESTDATA).ipynb)
