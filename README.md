@@ -29,7 +29,7 @@ The following are slow-motion clips of me taking a shot on the HD Simulator with
 - [Optimization of Coefficients](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v8-(TESTDATA).ipynb)
 - [RMS values with Optimized Coefficients](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v9.ipynb)
 - [Percent Difference](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Jupyter%20Notebooks%20/golf-ball-rk4-v10.ipynb)
-- [Presentation](https://github.com/JBerg0714/Golf_Simulation_Machine/blob/master/Presentation.ipynb)
+- [Presentation](http://localhost:8888/notebooks/Desktop/Git/Repositories/Golf%20Simulation%20Machine/Presentation.ipynb)
 
 ## Credits
 None of this would have been possible without the incredible mentoring of Dr. Aaron Titus of High Point University. Additionally, I would like to thank Dr. Eric Hegedus for providing us with access to the High Point University Biomechanics Lab as well as the HD Golf Simulator. 
